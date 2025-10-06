@@ -8,3 +8,7 @@ chore: initialize project structure
 
 feat: add core domain model
 
+## 2025-10-06 - Stage 3
+
+feat: configure persistence or state layer
+
