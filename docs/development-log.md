@@ -32,3 +32,7 @@ docs: add installation and usage documentation
 
 ci: add build and test workflow
 
+## 2025-11-06 - Stage 9
+
+feat: add validation rules for row validation
+
