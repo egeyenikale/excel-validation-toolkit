@@ -43,3 +43,8 @@ export const stage9 = {
   "date": "2025-11-06",
   "message": "feat: add validation rules for row validation"
 };
+
+export const stage10 = {
+  "date": "2025-11-18",
+  "message": "feat: add reporting view for error report"
+};

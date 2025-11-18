@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for row validation
 
+## 2025-11-18 - Stage 10
+
+feat: add reporting view for error report
+
